@@ -1,3 +1,3 @@
 # Netflix-Clone
 
-A responsive Netflix Website Clone made with html and css.
+A responsive Netflix website clone made with html and css.
