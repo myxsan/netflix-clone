@@ -1,5 +1,7 @@
 # Netflix-Clone
 
+[RUN](https://startling-begonia-40fdd3.netlify.app/)
+
 A responsive Netflix website clone made with html and css.
 
 #### HEADER:
